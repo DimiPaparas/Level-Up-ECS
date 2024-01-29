@@ -17,3 +17,4 @@ More information about the font can be found in the `fonts` directory.
 ## Exports
 
 1000 x 1000px PNG versions of the logos can be found under the `exports` directory.
+See [Releases](https://github.com/DimiPaparas/Level-Up-ECS/releases) for past versions.
